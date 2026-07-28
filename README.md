@@ -7,8 +7,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00FF99&height=2"/>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ss011-ai&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ss011-ai&layout=compact&theme=tokyonight&hide_border=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ss011-ai&layout=compact&theme=tokyonight&hide_border=true)
 
 # Hi there 👋, I'm Simran
 
