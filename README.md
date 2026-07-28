@@ -1,6 +1,6 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=2500&pause=700&color=A020F0&center=true&vCenter=true&width=900&lines=👾+AI+Explorer;🧠+Learning+Never+Stops;🚀+Python+%7C+TensorFlow+%7C+ML;🌌+Dream.+Code.+Create."/>
-</h1>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;Artificial+Intelligence;Machine+Learning;Deep+Learning;Python+Developer;ACCESS+GRANTED"/>
+</p>
 # Hi there 👋, I'm Simran
 
 🌸 AI/ML Enthusiast  
