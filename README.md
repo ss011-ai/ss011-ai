@@ -4,6 +4,9 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;Artificial+Intelligence;Machine+Learning;Deep+Learning;Python+Developer;ACCESS+GRANTED"/>
 </p>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=900&lines=SYSTEM+ONLINE;Artificial+Intelligence;Machine+Learning;Python+Developer;Always+Learning..."/>
+</p>
 
 # Hi there 👋, I'm Simran
 
