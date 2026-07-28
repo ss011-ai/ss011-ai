@@ -55,20 +55,6 @@
 - Uses Machine Learning classification  
 - Works on real-world financial data  
 
-
----
-
-## 📊 GitHub Stats
-![Simran's GitHub stats](https://github-readme-stats.vercel.app/api?username=ss011-ai&show_icons=true&theme=tokyonight)
-
----
-
-## 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=ss011-ai&theme=tokyonight)
-
----
- 
-
 ---
 
 ## ✨ Fun Fact
