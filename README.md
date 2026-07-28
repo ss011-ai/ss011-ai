@@ -1,9 +1,10 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;Artificial+Intelligence;Machine+Learning;Deep+Learning;Python+Developer;ACCESS+GRANTED"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,13,14,17,30&text=SIMRAN&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=40&desc=AI%20%7C%20Machine%20Learning%20%7C%20Python&descAlignY=60"/>
 </p>
 <p align="center">
-  <img src="https://media1.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="800"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;Artificial+Intelligence;Machine+Learning;Deep+Learning;Python+Developer;ACCESS+GRANTED"/>
 </p>
+
 # Hi there 👋, I'm Simran
 
 🌸 AI/ML Enthusiast  
