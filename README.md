@@ -30,7 +30,19 @@
 
 ### 🌱 Plant Disease Prediction System
 - Detects plant diseases using AI  
-- Helps in smart agriculture  
+- Helps in smart agriculture
+
+### 📊 Social Network Ad Prediction
+- Predicts whether a user will purchase a product  
+- Uses **K-Nearest Neighbors (KNN)**  
+- Features: Age, Estimated Salary  
+- Includes data visualization with scatter plots
+
+- ### 💰 Loan Approval Prediction
+- Predicts whether a loan will be approved or not  
+- Uses Machine Learning classification  
+- Works on real-world financial data  
+
 
 ---
 
