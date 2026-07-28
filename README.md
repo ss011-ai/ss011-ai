@@ -57,3 +57,6 @@
 
 ## ✨ Fun Fact
 I’m on a journey to turn ideas into intelligent systems 🤖💡
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ss011-ai/ss011-ai/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
