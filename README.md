@@ -1,7 +1,6 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=900&lines=⚡+AI+Architect+in+Progress;💻+Building+Intelligent+Systems;🚀+Machine+Learning+%7C+Deep+Learning;🐍+Python+Developer;🌌+Welcome+to+my+Universe"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=700&color=FF003C&center=true&vCenter=true&width=900&lines=⚠+Access+Granted...;🤖+AI+%26+Machine+Learning+Engineer;💀+Code.+Learn.+Build.;🔥+Future+AI+Architect;⚡+Welcome+to+my+GitHub"/>
 </h1>
-
 # Hi there 👋, I'm Simran
 
 🌸 AI/ML Enthusiast  
