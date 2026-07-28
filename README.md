@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;Artificial+Intelligence;Machine+Learning;Deep+Learning;Python+Developer;ACCESS+GRANTED"/>
 </p>
 <p align="center">
-  <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="800">
+  <img src="https://media1.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="800"/>
 </p>
 # Hi there 👋, I'm Simran
 
