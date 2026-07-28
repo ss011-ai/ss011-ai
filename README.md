@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=700&color=FF003C&center=true&vCenter=true&width=900&lines=⚠+Access+Granted...;🤖+AI+%26+Machine+Learning+Engineer;💀+Code.+Learn.+Build.;🔥+Future+AI+Architect;⚡+Welcome+to+my+GitHub"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=2500&pause=700&color=A020F0&center=true&vCenter=true&width=900&lines=👾+AI+Explorer;🧠+Learning+Never+Stops;🚀+Python+%7C+TensorFlow+%7C+ML;🌌+Dream.+Code.+Create."/>
 </h1>
 # Hi there 👋, I'm Simran
 
