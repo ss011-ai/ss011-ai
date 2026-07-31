@@ -14,10 +14,6 @@
 🐍 Python Learner  
 🚀 Exploring Machine Learning & Deep Learning  
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sklearn,git,github,vscode"/>
-</p>
-
 
 ## 💫 About Me
 - 🌱 Currently learning **Machine Learning & Deep Learning**
