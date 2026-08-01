@@ -52,6 +52,16 @@
 - Uses Machine Learning classification  
 - Works on real-world financial data  
 
+### 🔧 ML API with FastAPI & Docker
+A machine learning API that predicts iris flower species using a trained Logistic Regression model — built with FastAPI and containerized using Docker for easy deployment.
+
+**Tech Stack:** Python | Scikit-learn | FastAPI | Docker
+
+🔗 [View Project](https://github.com/ss011-ai/ml-api-project)
+
+- Trained an ML model and served it as a REST API
+- Containerized the entire application using Docker
+- Built and tested interactive API documentation with Swagger UI
 ---
 
 ## ✨ Fun Fact
