@@ -11,7 +11,7 @@
 # Hi there 👋, I'm Simran
 
 🌸 AI/ML Enthusiast  
-🐍 Python Learner  
+🐍 Python Learner 
 🚀 Exploring Machine Learning & Deep Learning  
 
 
@@ -25,7 +25,7 @@
 
 ## 🛠️ Tech Stack
 - 💻 Languages: Python  
-- 📚 Libraries: NumPy, Pandas, Matplotlib, Scikit-learn  
+- 📚 Libraries: NumPy, Pandas, Matplotlib, Scikit-learn ,seaborn
 - 🤖 Learning: TensorFlow, Deep Learning  
 - 🌐 Web: HTML, CSS, JavaScript (Basics)
 
